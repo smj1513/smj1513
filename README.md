@@ -1,7 +1,7 @@
 [Seong Min Je]
 ==============
 ### (2020.02 ~ ?) Kumoh National Institute of Technology Software Engineering Student
-### (2023.10 ~ ?) Kumoh National Institute of Technology Software Engineering Signal processing and Intelligent Networks (D337) Researcher
+### (2023.10 ~ ?) Kumoh National Institute of Technology Software Engineering Signal processing and Intelligent Network Lab (D337) Undergraduate Research Students
 <!--
 **Kakao1513/Kakao1513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
