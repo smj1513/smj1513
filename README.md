@@ -1,5 +1,7 @@
-### Hi there 👋
+[Seong Min Je]
+==============
 
+### (2023.10 ~ ?) Kumoh National Institute of Technology Software Engineering Signal processing and Intelligent Networks (D337) Researcher
 <!--
 **Kakao1513/Kakao1513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
