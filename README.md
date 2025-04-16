@@ -24,8 +24,8 @@
 
 <div align="center">
   <h1>📈 GitHub Stats</h1>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smj1513&show_icons=true&theme=radical&count_private=true)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smj1513&layout=compact&theme=dracula)
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smj1513&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smj1513&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smj1513&theme=github"/>  
 </div>
