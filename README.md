@@ -1,7 +1,6 @@
+😊**Current:**  ![Github Cleanup](https://img.shields.io/badge/Github_Cleanup-blue)
 <div align="center">
   <h1>👨💻 Seong Min Je</h1>
-  
- 🚀**현재 상태:**  ![Github Cleanup](https://img.shields.io/badge/Github_Cleanup-blue)
 
   🏫 **국립금오공과대학교 컴퓨터공학부 소프트웨어전공** (2020.02 ~ )  
   🔬 **신호처리 및 지능네트워크 연구실 (D337) 학부연구생** (2023.10 ~ )
