@@ -1,7 +1,19 @@
 [Seong Min Je]
 ==============
+Career
+==============
 ### (2020.02 ~ ?) Kumoh National Institute of Technology Software Engineering Student
 ### (2023.10 ~ ?) Kumoh National Institute of Technology Software Engineering Signal processing and Intelligent Network Lab (D337) Undergraduate Research Student
+
+==============
+Status
+==============
+[smj1513's GitHub stats](https://github-readme-stats.vercel.app/api?username=smj1513&show_icons=true&theme=dracula)
+
+==============
+Most Used Languages
+==============
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smj1513&layout=compact&theme=dracula)
 <!--
 **Kakao1513/Kakao1513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
