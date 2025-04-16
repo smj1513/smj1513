@@ -5,12 +5,10 @@ Career
 ### (2020.02 ~ ?) Kumoh National Institute of Technology Software Engineering Student
 ### (2023.10 ~ ?) Kumoh National Institute of Technology Software Engineering Signal processing and Intelligent Network Lab (D337) Undergraduate Research Student
 
-==============
 Status
 ==============
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smj1513&show_icons=true&theme=스타일)
 
-==============
 Most Used Languages
 ==============
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smj1513&layout=compact&theme=dracula)
