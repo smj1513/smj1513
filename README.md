@@ -8,7 +8,7 @@ Career
 ==============
 Status
 ==============
-[smj1513's GitHub stats](https://github-readme-stats.vercel.app/api?username=smj1513&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smj1513&show_icons=true&theme=스타일)
 
 ==============
 Most Used Languages
