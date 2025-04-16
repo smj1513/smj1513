@@ -1,7 +1,5 @@
 [Seong Min Je]
 ==============
-Career
-==============
 ### (2020.02 ~ ?) Kumoh National Institute of Technology Software Engineering Student
 ### (2023.10 ~ ?) Kumoh National Institute of Technology Software Engineering Signal processing and Intelligent Network Lab (D337) Undergraduate Research Student
 
