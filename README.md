@@ -5,7 +5,7 @@
 
 Status
 ==============
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smj1513&show_icons=true&theme=스타일)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smj1513&show_icons=true&theme=스타일?count_private=true)
 
 Most Used Languages
 ==============
