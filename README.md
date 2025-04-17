@@ -25,7 +25,7 @@
 <div align="center">
   <h1>📈 GitHub Stats</h1>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smj1513&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smj1513&theme=github_dark&"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smj1513&theme=github"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smj1513&theme=github"/>  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smj1513&theme=github&range=year"/>  
 </div>
