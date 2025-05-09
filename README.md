@@ -1,4 +1,6 @@
 😊**Current:**  ![Github Cleanup](https://img.shields.io/badge/Github_Cleanup-blue)
+
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=huggingface&logoColor=white)]([https://huggingface.co/your-huggingface-id](https://huggingface.co/kakao1513))
 <div align="center">
   <h1>👨💻 Seong Min Je</h1>
 
