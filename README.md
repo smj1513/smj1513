@@ -22,6 +22,7 @@
 
 <img src="https://topsolved.mayonedev.com/api/boj?handle=minj21&row=25&base_color=default">
 </div>
+
 ---
 
 <div align="center">
