@@ -20,9 +20,8 @@
 | **Infra**      | <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/navercloud-009639?style=flat&logo=navercloud&logoColor=white"> |
 | **Tools**      | <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> |
 
-</div>
 <img src="https://topsolved.mayonedev.com/api/boj?handle=minj21&row=25&base_color=default">
-
+</div>
 ---
 
 <div align="center">
