@@ -21,6 +21,7 @@
 | **Tools**      | <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> |
 
 </div>
+<img src="https://topsolved.mayonedev.com/api/boj?handle=minj21&row=25&base_color=default">
 
 ---
 
