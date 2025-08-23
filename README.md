@@ -1,5 +1,3 @@
-😊**Current:**  ![Github Cleanup](https://img.shields.io/badge/Github_Cleanup-blue)
-
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/kakao1513)
 <div align="center">
   <h1>👨💻 Seong Min Je</h1>
@@ -9,6 +7,12 @@
 
   
   <img src="https://topsolved.mayonedev.com/api/boj?handle=minj21&row=25&base_color=default">
+  <hr>
+  <h1> Github Status Summary</h1>
+<p>
+  <img height="160em" width="49%" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=smj1513&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="160em" width="49%" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=smj1513&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 </div>
 
 <div align="center">
@@ -27,8 +31,7 @@
 ---
 
 <div align="center">
-  <h1>📈 GitHub Stats</h1>
-
+  <h1>📈 GitHub Stats Details</h1>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smj1513&theme=github_dark&"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smj1513&theme=github"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smj1513&theme=github"/>  
