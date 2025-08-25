@@ -23,9 +23,15 @@
     <img height="160em" width="49%" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=smj1513&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
     <img height="160em" width="49%" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=smj1513&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   </p>
-  <img src="https://topsolved.mayonedev.com/api/boj?handle=minj21&row=25&base_color=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smj1513&theme=github_dark&"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smj1513&theme=tokyonight"/>
+</div>
+
+---
+
+### 🏆 Problem Solving
+<div align="center">
+  <img src="https://topsolved.mayonedev.com/api/boj?handle=minj21&row=25&base_color=default" />
 </div>
 
 ---
