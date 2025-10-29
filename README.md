@@ -12,7 +12,7 @@
 
 ### 🔭 Interests
 - **AI-Powered Backend System**
-- **Retrieval-Augmented Generation (RAG)**
+- **A2A Framework**
 - **Object-Oriented Programming & Design Pattern**
 
 ---
