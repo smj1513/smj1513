@@ -3,17 +3,17 @@
 </div>
 
 ### 👋 안녕하세요, 백엔드 개발자 성민제입니다.
-단순한 기능 구현을 넘어, 객체지향 디자인패턴을 적용한 확장성 있는 설계와 AI를 백엔드에 접목하는 방법에 관심이 많습니다.
-특히 자연어 처리와 검색 증강 생성 기술을 활용하여 기존 서비스의 한계를 극복하고, AI를 적극 활용하여 생산성을 높이는 것을 지향합니다. 최근에는 효과적인 문서 검색 기법과 프롬프트 엔지니어링 기법에 흥미를 가지고 있습니다.
+문제를 올바르게 정의하고 판단의 기준을 세운 뒤, 검증을 통해 더 나은 해결 방향을 선택하는 과정을 중요하게 생각합니다.
+AI와 백엔드 기술을 연결해 실제로 작동하는 서비스를 만들고, 검색/RAG/LLM 시스템을 서비스 품질과 운영 관점에서 다듬는 일에 집중하고 있습니다.
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/kakao1513)
 
 ---
 
 ### 🔭 Interests
-- **AI-Powered Backend System**
-- **A2A Framework**
-- **Object-Oriented Programming & Design Pattern**
+- **Problem Structuring & Validation**
+- **AI-Native Backend Systems**
+- **Search / RAG / LLM Ops**
 
 ---
 
