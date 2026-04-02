@@ -4,16 +4,17 @@
 
 ### 👋 안녕하세요, 백엔드 개발자 성민제입니다.
 문제를 올바르게 정의하고 판단의 기준을 세운 뒤, 검증을 통해 더 나은 해결 방향을 선택하는 과정을 중요하게 생각합니다.
-AI와 백엔드 기술을 연결해 실제로 작동하는 서비스를 만들고, 검색/RAG/LLM 시스템을 서비스 품질과 운영 관점에서 다듬는 일에 집중하고 있습니다.
+AI와 백엔드 기술을 연결해 실제로 작동하는 서비스를 만들며, 구조 설계부터 성능 개선, 검색 품질 검증까지 서비스 관점에서 풀어가는 일에 집중하고 있습니다.
+특히 검색/RAG/LLM 시스템을 단순히 붙이는 데서 그치지 않고, 실제 사용자 경험과 운영 품질로 이어지도록 다듬는 작업에 흥미를 가지고 있습니다.
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/kakao1513)
 
 ---
 
 ### 🔭 Interests
-- **Problem Structuring & Validation**
-- **AI-Native Backend Systems**
-- **Search / RAG / LLM Ops**
+- **Problem Structuring, Validation & Performance Tuning**
+- **AI-Native Backend Systems & LLM Integration**
+- **Search, RAG, and LLM Ops for Real Services**
 
 ---
 
